@@ -1,2 +1,2 @@
 # share-terminal-remaking
-终端改造
+iterm2+oh-my-zsh 终端改造
