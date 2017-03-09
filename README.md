@@ -58,6 +58,13 @@ alias subl='/Applications/SublimeText.app/Contents/SharedSupport/bin/subl'
 
 alias code='/Applications/Visual\ Studio\ Code.app/Contents/Resources/app/bin/code'
 
+使用：
+```sh
+atom 文件名
+subl 文件名
+code 文件名
+```
+
 iterm2快速呼出配置:
 preferences  keys
 ![](http://img.cnsecer.com/wp-content/uploads/2015/06/ec145771a8c5cda82698d419983920f0.png)
