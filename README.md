@@ -4,8 +4,12 @@ iterm2+oh-my-zsh 终端小改造:blush:
 why:1、不好看 2、bash不显示git分支 3、终端中无法用编辑器打开文件。
 
 want：
-iterm2快速呼出![](http://img.cnsecer.com/wp-content/uploads/2015/06/8ad0ba005f155dfb3b0aa5c299148b2a.jpg)
+iterm2快速呼出
+
+![](http://img.cnsecer.com/wp-content/uploads/2015/06/8ad0ba005f155dfb3b0aa5c299148b2a.jpg)
+
 各种主题
+
 ![](https://cloud.githubusercontent.com/assets/2618447/6316862/70f58fb6-ba03-11e4-82c9-c083bf9a6574.png)
 ![](https://cloud.githubusercontent.com/assets/2618447/6316861/70f3c4ce-ba03-11e4-88a5-0b423dd5a2ce.png)
 
